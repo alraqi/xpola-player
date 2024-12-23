@@ -1,3 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1, AD Sport
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
