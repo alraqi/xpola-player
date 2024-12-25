@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://alraqii.ddns.net:8282/stream/2/index.m3u8?username=0IcugKH1m1&password=kBiqaWpIfD
